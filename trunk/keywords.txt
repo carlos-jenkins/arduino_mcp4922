@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For MCP4922
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MCP4922	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setBuffer	KEYWORD2
+setGain	KEYWORD2
+sendToA	KEYWORD2
+sendToB	KEYWORD2
+updateOutputs	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
